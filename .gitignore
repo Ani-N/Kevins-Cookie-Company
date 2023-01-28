@@ -1,0 +1,3 @@
+# ignore all .txt files
+# github.com/github/gitgnore for more info
+*.txt
